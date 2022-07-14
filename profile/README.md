@@ -14,6 +14,7 @@
   - Microservice với Restful giao tiếp với bên ngoài và Event(message queue) hoặc GRPC để giao tiếp nội bộ<br/>
   - Áp dụng Event-Driven, Saga Pattern, CRQS,...<br/>
   - Áp dụng Circuit breaker cho tất cả service<br/>
+  - Hệ thống được triển khai hoàn toàn trên AWS Cloud
   #### Framework:<br/>
   - Spring Boot 2.7.2<br/>
   - Spring Reactive Web<br/>
